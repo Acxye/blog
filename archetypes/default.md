@@ -5,7 +5,7 @@ draft: false
 title: ""
 weight: 
 tags: []
-series: ""
+series: [""]
 series_order: 
 ---
 
