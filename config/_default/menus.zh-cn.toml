@@ -78,8 +78,3 @@
   name = "标签"
   pageRef = "tags"
   weight = 20
-
-[[main]]
-  name = "系列"
-  pageRef = "series"
-  weight = 30
