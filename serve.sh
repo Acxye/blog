@@ -1,0 +1,15 @@
+hugo server \
+    --bind 0.0.0.0 \
+    --buildDrafts \
+    --buildExpired \
+    --buildFuture \
+    --cleanDestinationDir \
+    --disableFastRender \
+    --gc \
+    --minify \
+    --printI18nWarnings \
+    --printMemoryUsage \
+    --printPathWarnings \
+    --port 1313 \
+    --logLevel debug \
+    --renderToMemory
