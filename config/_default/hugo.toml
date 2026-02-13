@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish-2.98.0" # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+baseURL = "https://blog.baiy5865.workers.dev/"
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
 
